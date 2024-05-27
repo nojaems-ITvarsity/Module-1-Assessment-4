@@ -1,0 +1,19 @@
+h2{
+    font-family: serif;
+    color: #4B088A;
+    
+}
+table{
+    border-collapse: collapse;
+    border-width: 1px;
+}
+th{
+    border-width: 2px;
+    background-color: cornflowerblue;
+}
+td{
+    border-width: 2px;
+    background-color: darkseagreen;
+    font-family: monospace;
+    text-align: center;
+}
